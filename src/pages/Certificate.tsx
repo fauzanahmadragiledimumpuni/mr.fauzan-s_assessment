@@ -50,7 +50,7 @@ const Certificate = () => {
     doc.setFontSize(11);
     doc.setTextColor(26, 68, 128);
     doc.setFont("helvetica", "normal");
-    doc.text("SMP NEGERI 1 PURBALINGGA", cx, 35, { align: "center" });
+    doc.text("SMP NEGERI 1 BUKATEJA", cx, 35, { align: "center" });
 
     // Title
     doc.setFontSize(28);
@@ -167,7 +167,7 @@ const Certificate = () => {
 
             <div style={{ position: "relative", zIndex: 1, textAlign: "center", padding: "10px 40px" }}>
               <h2 style={{ fontSize: "13px", color: "#1a4480", margin: "0 0 4px", letterSpacing: "2px", textTransform: "uppercase" }}>
-                SMP Negeri 1 Purbalingga
+                SMP Negeri 1 Bukateja
               </h2>
               <h1 style={{ fontSize: "32px", fontWeight: 800, color: "#1a4480", margin: "8px 0 2px", letterSpacing: "4px" }}>
                 SERTIFIKAT
