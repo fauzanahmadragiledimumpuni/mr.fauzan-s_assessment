@@ -255,7 +255,7 @@ const Exam = () => {
               {remaining !== null ? formatTime(remaining) : formatTime(elapsed)}
             </span>
           </div>
-          <h1 className="text-sm font-bold hidden sm:block">{exam?.name || "CBT SMP Negeri 1 Purbalingga"}</h1>
+          <h1 className="text-sm font-bold hidden sm:block">{exam?.name || "CBT SMP Negeri 1 Bukateja"}</h1>
           <div className="flex items-center gap-2">
             {violations > 0 && (
               <span className="text-xs bg-destructive/80 px-2 py-0.5 rounded-full">
