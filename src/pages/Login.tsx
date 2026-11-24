@@ -45,14 +45,14 @@ const Login = () => {
         <CardHeader className="text-center pb-2 pt-8">
           <img
             src="https://spenzaga.github.io/assets/img/logo.png"
-            alt="Logo SMP Negeri 1 Purbalingga"
+            alt="Logo SMP Negeri 1 Bukateja"
             className="w-24 h-24 mx-auto mb-4 drop-shadow-md"
           />
           <h1 className="text-2xl font-bold text-primary">
             Computer Based Test
           </h1>
           <p className="text-muted-foreground text-sm mt-1">
-            SMP Negeri 1 Purbalingga
+            SMP Negeri 1 Bukateja
           </p>
         </CardHeader>
         <CardContent className="space-y-4 px-8 pb-8">
