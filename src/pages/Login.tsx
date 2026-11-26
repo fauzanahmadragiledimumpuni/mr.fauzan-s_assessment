@@ -44,7 +44,7 @@ const Login = () => {
       <Card className="w-full max-w-md shadow-xl border-0 animate-fade-in">
         <CardHeader className="text-center pb-2 pt-8">
           <img
-            src="https://spenzaga.github.io/assets/img/logo.png"
+            src="https://raw.githubusercontent.com/fauzanahmadragiledimumpuni/mr.fauzan-s_assessment/refs/heads/main/public/favicon.ico"
             alt="Logo SMP Negeri 1 Bukateja"
             className="w-24 h-24 mx-auto mb-4 drop-shadow-md"
           />
