@@ -44,10 +44,13 @@ const AdminLogin = () => {
     <div className="min-h-screen flex items-center justify-center bg-background p-4">
       <Card className="w-full max-w-md shadow-xl border-0 animate-fade-in">
         <CardHeader className="text-center pb-2 pt-8">
-          <div className="w-16 h-16 mx-auto mb-4 bg-primary/10 rounded-full flex items-center justify-center">
-            <Shield className="w-8 h-8 text-primary" />
-          </div>
-          <h1 className="text-2xl font-bold text-primary">Admin Dashboard</h1>
+          <div className="w-20 h-20 mx-auto mb-4 flex items-center justify-center">
+            <img
+              src="https://raw.githubusercontent.com/fauzanahmadragiledimumpuni/mr.fauzan-s_assessment/refs/heads/main/logo%20spensika%20bevel.ico"
+              alt="Logo SMP Negeri 1 Bukateja"
+              className="w-full h-full object-contain drop-shadow-sm"
+            />
+          </div>          <h1 className="text-2xl font-bold text-primary">Admin Dashboard</h1>
           <p className="text-muted-foreground text-sm mt-1">SMP Negeri 1 Bukateja</p>
         </CardHeader>
         <CardContent className="space-y-4 px-8 pb-8">
