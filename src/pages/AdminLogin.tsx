@@ -46,7 +46,7 @@ const AdminLogin = () => {
         <CardHeader className="text-center pb-2 pt-8">
           <div className="w-20 h-20 mx-auto mb-4 flex items-center justify-center">
             <img
-              src="https://raw.githubusercontent.com/fauzanahmadragiledimumpuni/mr.fauzan-s_assessment/refs/heads/main/logo%20spensika%20bevel.ico"
+              src="https://github.com/fauzanahmadragiledimumpuni/mr.fauzan-s_assessment/blob/main/logo%20spensika.svg"
               alt="Logo SMP Negeri 1 Bukateja"
               className="w-full h-full object-contain drop-shadow-sm"
             />
